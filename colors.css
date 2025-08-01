@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: gray;
+}
+
+button{
+    color: aqua;
+    background-color: gray;
+    border-radius: 25px ;
+}
+
+.register{
+    border-radius: 35px;
+}
